@@ -1,0 +1,14 @@
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\bin\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).exe
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\bin\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).deps.json
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\bin\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).runtimeconfig.json
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\bin\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).runtimeconfig.dev.json
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\bin\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).dll
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\bin\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).pdb
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\obj\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\obj\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\obj\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).AssemblyInfoInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\obj\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).AssemblyInfo.cs
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\obj\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\obj\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).dll
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\obj\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).pdb
+C:\Users\ASUS-GL552VW\source\repos\Game 3 (palam,plum,plich)\Game 3 (palam,plum,plich)\obj\Debug\netcoreapp3.1\Game 3 (palam,plum,plich).genruntimeconfig.cache

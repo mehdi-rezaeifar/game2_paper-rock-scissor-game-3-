@@ -1,0 +1,14 @@
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\bin\Debug\netcoreapp3.1\game2.exe
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\bin\Debug\netcoreapp3.1\game2.deps.json
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\bin\Debug\netcoreapp3.1\game2.runtimeconfig.json
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\bin\Debug\netcoreapp3.1\game2.runtimeconfig.dev.json
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\bin\Debug\netcoreapp3.1\game2.dll
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\bin\Debug\netcoreapp3.1\game2.pdb
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\obj\Debug\netcoreapp3.1\game2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\obj\Debug\netcoreapp3.1\game2.AssemblyInfoInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\obj\Debug\netcoreapp3.1\game2.AssemblyInfo.cs
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\obj\Debug\netcoreapp3.1\game2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\obj\Debug\netcoreapp3.1\game2.dll
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\obj\Debug\netcoreapp3.1\game2.pdb
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\obj\Debug\netcoreapp3.1\game2.genruntimeconfig.cache
+C:\Users\ASUS-GL552VW\source\repos\game2\game2\obj\Debug\netcoreapp3.1\game2.csproj.AssemblyReference.cache

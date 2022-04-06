@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Game 3 (palam,plum,plich)/1.0.0": {
+        "runtime": {
+          "Game 3 (palam,plum,plich).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game 3 (palam,plum,plich)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
